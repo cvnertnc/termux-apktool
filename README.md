@@ -15,10 +15,12 @@ Apktool v2.8.2-SNAPSHOT
 $ git clone https://github.com/rendiix/termux-apktool.git
 $ cd termux-apktool
 $ bash install.sh
+$ dpkg -i ./apktool_2.10.0.deb
 ```
 #### Oneline installation:
 ``` console
 $ curl -s https://raw.githubusercontent.com/rendiix/termux-apktool/main/install.sh | bash
+$ dpkg -i ./apktool_2.10.0.deb
 ```
 
 #### If you are already subscribed to my PPA repo:
